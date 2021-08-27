@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.microsoft.azure</groupId>
-  <artifactId>app-service-java-configure-deployment-sources-for-web-apps</artifactId>
+  <artifactId>Calculator-web-apps</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>ManageWebAppSourceControl.java</name>
   <description></description>
