@@ -37,7 +37,7 @@
             </goals>
             <configuration>
               <descriptorRefs>
-                <descriptorRef>jar-with-dependencies</descriptorRef>
+                <descriptorRef>war-with-dependencies</descriptorRef>
               </descriptorRefs>
               <archive>
                 <manifest>
